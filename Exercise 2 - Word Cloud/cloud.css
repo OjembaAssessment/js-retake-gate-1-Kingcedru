@@ -40,7 +40,7 @@
     left: 28rem;
 }
 .four{
-    font-size: 52px;
+    font-size: 20px;
     font-weight: 800;
     color: rebeccapurple;
     position: absolute;
@@ -48,7 +48,7 @@
     left: 30rem;
 }
 .five{
-    font-size: 48px;
+    font-size: 20px;
     font-weight: 800;
     color: blueviolet;
     position: absolute;
@@ -56,7 +56,7 @@
     left: 9rem;
 }
 .six{
-    font-size: 44px;
+    font-size: 20px;
     font-weight: 800;
     color: blueviolet;
     position: absolute;
@@ -64,7 +64,7 @@
     left: 12rem;
 }
 .seven{
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 800;
     color: brown;
     position: absolute;
@@ -72,7 +72,7 @@
     left: 5rem;
 }
 .eight{
-    font-size: 36px;
+    font-size: 20px;
     font-weight: 800;
     color: burlywood;
     position: absolute;
@@ -80,7 +80,7 @@
     left: 12rem;
 }
 .nine{
-    font-size: 32px;
+    font-size: 20px;
     font-weight: 800;
     color: lightseagreen;
     position: absolute;
@@ -88,7 +88,7 @@
     left: 25rem;
 }
 .ten{
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 800;
     color: seagreen;
     position: absolute;
@@ -96,7 +96,7 @@
     left: 25rem;
 }
 .eleven{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 800;
     color: slateblue;
     position: absolute;
@@ -109,5 +109,5 @@
     color: saddlebrown;
     position: absolute;
     top: 30rem;
-    left: 30rem;
+    left: 30rem;
 }

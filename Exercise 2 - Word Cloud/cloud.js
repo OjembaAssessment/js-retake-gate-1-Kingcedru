@@ -39,73 +39,73 @@ textWord.append(appier3)
 
 
 
-// let four = document.createElement("p")
-// four.setAttribute("class", "four")
-// four.textContent = twelveCommon[3]
-// cloud.append(four)
+let appier4 = document.createElement("p")
+appier4.setAttribute("class", "four")
+appier4.textContent = appier12[3]
+textWord.append(appier4)
 
 
 
     
 
-// let five = document.createElement("p")
-// five.setAttribute("class", "five")
-// five.textContent = twelveCommon[4]
-// cloud.append(five)
+let appier5 = document.createElement("p")
+appier5.setAttribute("class", "five")
+appier5.textContent = appier12[4]
+textWord.append(appier5)
 
 
 
     
 
-// let six = document.createElement("p")
-// six.setAttribute("class", "six")
-// six.textContent = twelveCommon[5]
-// cloud.append(six)
+let appier6 = document.createElement("p")
+appier6.setAttribute("class", "six")
+appier6.textContent = appier12[5]
+textWord.append(appier6)
 
 
 
     
 
-// let seven = document.createElement("p")
-// seven.setAttribute("class", "seven")
-// seven.textContent = twelveCommon[6]
-// cloud.append(seven)
+let appier7 = document.createElement("p")
+appier7.setAttribute("class", "seven")
+appier7.textContent = appier12[6]
+textWord.append(appier7)
 
 
 
     
 
-// let eight = document.createElement("p")
-// eight.setAttribute("class", "eight")
-// eight.textContent = twelveCommon[7]
-// cloud.append(eight)
+let appier8 = document.createElement("p")
+appier8.setAttribute("class", "eight")
+appier8.textContent = appier12[7]
+textWord.append(appier8)
 
 
 
     
 
-// let nine = document.createElement("p")
-// nine.setAttribute("class", "nine")
-// nine.textContent = twelveCommon[8]
-// cloud.append(nine)
+let appier9 = document.createElement("p")
+appier9.setAttribute("class", "nine")
+appier9.textContent = appier12[8]
+textWord.append(appier9)
 
 
 
     
 
-// let ten = document.createElement("p")
-// ten.setAttribute("class", "ten")
-// ten.textContent = twelveCommon[9]
-// cloud.append(ten)
+let appier10 = document.createElement("p")
+appier10.setAttribute("class", "ten")
+appier10.textContent = appier12[9]
+textWord.append(appier10)
 
 
 
     
 
-// let eleven = document.createElement("p")
-// eleven.setAttribute("class", "eleven")
-// eleven.textContent = twelveCommon[10]
-// cloud.append(eleven)
+let appier11 = document.createElement("p")
+appier11.setAttribute("class", "eleven")
+appier11.textContent = appier12[10]
+textWord.append(appier11)
 
 
 
