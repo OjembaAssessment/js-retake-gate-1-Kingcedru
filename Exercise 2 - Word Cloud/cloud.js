@@ -4,7 +4,7 @@ let parTextLower = par.textContent.toLowerCase().split(" ")
 let parStore = {}
 
 
-
+// Looping through the parTextLower
 for(let x = 0; x < parTextLower.length; x++){
     if(parStore.hasOwnProperty(parTextLower[x])){
         parStore[parTextLower[x]]++
@@ -15,9 +15,6 @@ for(let x = 0; x < parTextLower.length; x++){
 }
 let textSort = Object.fromEntries(Object.entries(parStore).sort(([,a], [,b]) => b - a))
 let appier12 = Object.keys(Object.fromEntries(Object.entries(textSort).slice(1,13)))
-
-// let sortedPara = Object.fromEntries(Object.entries(paraObject).sort(([,a], [,b]) => b - a))
-// let twelveCommon = Object.keys(Object.fromEntries(Object.entries(sortedPara).slice(1,13)))
 
 let textWord = document.getElementById("myWordCloud")
 
